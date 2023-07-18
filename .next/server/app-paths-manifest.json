@@ -1,0 +1,11 @@
+{
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/page": "app/page.js",
+  "/_not-found": "app/_not-found.js",
+  "/opengraph-image.png/route": "app/opengraph-image.png/route.js",
+  "/search/page": "app/search/page.js",
+  "/products/[id]/page": "app/products/[id]/page.js",
+  "/cart/page": "app/cart/page.js",
+  "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js",
+  "/add-product/page": "app/add-product/page.js"
+}

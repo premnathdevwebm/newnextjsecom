@@ -1,0 +1,11 @@
+{
+  "/favicon.ico/route": "/favicon.ico",
+  "/page": "/",
+  "/_not-found": "/_not-found",
+  "/opengraph-image.png/route": "/opengraph-image.png",
+  "/search/page": "/search",
+  "/products/[id]/page": "/products/[id]",
+  "/cart/page": "/cart",
+  "/api/auth/[...nextauth]/route": "/api/auth/[...nextauth]",
+  "/add-product/page": "/add-product"
+}
