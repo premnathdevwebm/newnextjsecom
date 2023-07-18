@@ -33,6 +33,7 @@
     "zod": "^3.21.4"
   },
   "devDependencies": {
+    "@netlify/plugin-nextjs": "^4.39.1",
     "@types/crypto-js": "^4.1.1"
   }
 }
